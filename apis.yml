@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Luxembourg
     description: "Luxembourgish Government Open Data"
     humanURL: https://data.public.lu
-    baseURL: https://data.public.lu
     tags:
       - Government
     properties:
